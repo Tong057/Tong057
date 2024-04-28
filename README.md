@@ -2,7 +2,7 @@
 
 <!--
 **Tong057/Tong057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://profile-counter.glitch.me/Gnevilkoko/count.svg">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
