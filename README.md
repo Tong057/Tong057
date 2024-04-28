@@ -13,7 +13,7 @@ Hello! My name is Tony Katolichenko. I'm a **Junior Software Developer** special
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXAxZngyN2Y0MnhhOXRhMTJtcm56MDlrNGNvY3FsNTQ4NHVmbmJhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZJPSFNLmADueHvzoZ8/giphy-downsized.gif" width="300" alt="Coding" />
   
-  ## Visitors 
+  ## Visits Counter 
   <img src="https://profile-counter.glitch.me/Tong057/count.svg" alt="Visitor Counter" />
   
 </div>
