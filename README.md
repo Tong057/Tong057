@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXAxZngyN2Y0MnhhOXRhMTJtcm56MDlrNGNvY3FsNTQ4NHVmbmJhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZJPSFNLmADueHvzoZ8/giphy-downsized.gif" width="150" alt="Coding" />
 
 # Welcome to My GitHub Profile! 
 
@@ -11,7 +12,7 @@ Hello! My name is Tony Katolichenko. I'm a **Junior Software Developer** special
 
 <div align="center">
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXAxZngyN2Y0MnhhOXRhMTJtcm56MDlrNGNvY3FsNTQ4NHVmbmJhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZJPSFNLmADueHvzoZ8/giphy-downsized.gif" width="250" alt="Coding" />
+
   
   ## Visits Counter 
   <img src="https://profile-counter.glitch.me/Tong057/count.svg" alt="Visitor Counter" />
