@@ -5,7 +5,7 @@
 
 </div>
 
-Hello! My name is Tony Katolichenko. I'm a **Junior Software Developer** specializing in C# and Java. I'm passionate about coding and always eager to learn new technologies and concepts.
+Hello! My name is Tony Katolichenko. I'm a **Software Developer** specializing in C# and Java. I'm passionate about coding and always eager to learn new technologies and concepts.
 
 - 🤝 I’m open to collaborations and interesting projects.
 - 📫 You can reach me via [email](tonykatolichenko@gmail.com) or [instagram](https://www.instagram.com/tony_katolichenko).
