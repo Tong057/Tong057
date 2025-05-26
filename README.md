@@ -22,6 +22,10 @@ Technology is just a tool in the hands of a skilled engineer and does not limit 
 - 📫 You can contact me via [email](mailto:tonykatolichenko@gmail.com) or [Instagram](https://www.instagram.com/tony_katolichenko).
 
 <div align="center">
-  ## Visits Counter  
+  
+
+  
+  ## Visits Counter 
   <img src="https://profile-counter.glitch.me/Tong057/count.svg" alt="Visitor Counter" />
+  
 </div>
